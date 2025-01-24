@@ -1,12 +1,13 @@
 h1{
     color: rgb(255, 255, 255); 
     text-align: center; 
-    font-size: 20px;;
+    font-size: 10vw;
 }
 
 p{
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size: 10vw;
 }
 
 a{
@@ -25,4 +26,5 @@ img{
 }
 .desc{
     text-align: center;
+    font-size: 5vw;
 }
