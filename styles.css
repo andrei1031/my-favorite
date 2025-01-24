@@ -25,3 +25,7 @@ img{
     margin-right: auto;
     max-width:250%;height:auto;
 }
+div{
+    font-size: 2vw;
+    text-align: center;
+}
